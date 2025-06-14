@@ -1,10 +1,8 @@
 # Free VMware Workstation Pro 17 License Keys
 
-![GitHub top language](https://img.shields.io/)
+![GitHub top language](https://ibb.co/jvdxtqmV)
 
 <br>
-
-[![Join-Now](sset-6210df.s3.amazonaws.com/85627085/322880378-15a7b848-4d9e-49dd-a1a3-8942b1ae8fda.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241126T103848Z&X-Amz-Expires=300&X-Amz-Signature=3b1f7e37958c159307eba505d9300222c9191ea331fdde448045f2cc28ea0984&X-Amz-SignedHeaders=host)](https://t.me/resourcehub1)
 
 
 <br>
@@ -256,8 +254,8 @@ No Login or Account Registration Required.!!  Direct Download😊😎👍🤝
 | VMware_ESXi_6.7.1.iso | [click here](https://mega.nz/folder/QyYBUY6L#OHS18PYXozN_AUA781CokA/file/42pniBbQ) | 314.7 MB
 | VMware-VMvisor-Installer-7.0.0-15843807.x86_64.iso | [click here](https://mega.nz/folder/QyYBUY6L#OHS18PYXozN_AUA781CokA/file/trx2RRSC) | 350.3 MB
 | VMware-VMvisor-Installer-6.5.0-4564106.x86_64.iso | [click here](https://mega.nz/folder/QyYBUY6L#OHS18PYXozN_AUA781CokA/file/YqoHQKCa) | 328.3 MB
-| esxi-vSphere-8.0b.tgz | [click here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20ESXi/esxi-vSphere-8.0b.tgz) | 860 MB
-| VMWare vCenter 7.0 | [click here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20vCenter/vcenter-7.0U1D.tgz) | 5.5 GB
+| esxi-vSphere-8.0b.tgz | [click here](https://https://labhub.eu.org/api/raw/?path=/addons/qemu/VMWare%20ESXi/esxi-vSphere-8.0u2b.tgz) | 855.2 MB
+| VMWare vCenter 7.0 | [click here](https://labhub.eu.org/api/raw/?path=/addons/qemu/VMWare%20vCenter/vcenter-7.0U1D.tgz) | 5.5 GB
 
 <hr>
 <div align="center">
