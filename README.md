@@ -1,6 +1,6 @@
 # Free VMware Workstation Pro 17 License Keys
 
-![GitHub top language](https://ibb.co/jvdxtqmV)
+
 
 <br>
 <a href="https://ibb.co/jvdxtqmV"><img src="https://i.ibb.co/rGgL9qYb/ws-pro-play-hero2-slant.webp" alt="ws-pro-play-hero2-slant" border="0"></a>
