@@ -320,4 +320,12 @@ Telegram Group: [here](https://t.me/resourcehub1)
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 
-<a href="buymeacoffee.com/SABBIRIMON" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="coff.ee/SABBIRIMON" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<br>
+QR
+<br>
+<p align="center">
+  <a href="https://ibb.co/svJn3dDT">
+    <img src="https://i.ibb.co/svJn3dDT/bmc-qr.png" alt="bmc-qr" width="192" height="192" style="border:0;" />
+  </a>
+</p>
